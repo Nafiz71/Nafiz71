@@ -32,6 +32,24 @@ I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engi
 
 ---
 
+Sure! Here's a concise and professional version for your GitHub README section:
+
+---
+
+### 🏢 Work & Impact
+
+* **Reece Group – Platform Engineer Intern**
+  Built CI/CD pipelines, automation scripts, and scalable monitoring tools to support developer workflows and improve platform reliability.
+
+* **Reece Group – Data Engineer Intern**
+  Led data warehouse migration to Databricks on AWS, developed ETL pipelines and validation workflows, and built dashboards for actionable business insights by consulting with stakeholders
+
+* **Duolingo – APAC Localisation Intern**
+  Contributed to product usability and localization across APAC through testing, user interviews, and localized content creation.
+
+---
+
+
 ### 💼 What I'm Known For
 
 * 📌 **Data-Driven** Decision Making
