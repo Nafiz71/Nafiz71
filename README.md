@@ -55,7 +55,7 @@ I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engi
 
 ---
 
-###🛠️ Tools & Tech Stack
+### 🛠️ Tools & Tech Stack
 Languages & Scripting:
 Python (Pandas, PySpark), SQL, Bash, YAML, Terraform, Git, HTML, CSS, JavaScript
 
