@@ -55,9 +55,16 @@ I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engi
 
 ---
 
+🎓 Education
+Bachelor of Computer Science
+Monash University
+
+Major: Data Science
+
+Minor: Cybersecurity
+
 Feel free to connect or explore more of my projects.
 Let’s build something impactful together!
 
 ---
 
-Let me know if you'd like a shorter version or to add contact links/social icons.
