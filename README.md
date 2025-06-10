@@ -4,7 +4,7 @@
 
 Welcome to my public GitHub space!
 
-I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engineering**, **Analytics**, **Cloud**, **Product Management**, and **Strategy/Consulting**. I'm known for being a strong communicator, highly client-focused, and feedback-driven, with a background in public speaking and stakeholder engagement.
+I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engineering**, **Analytics**, **Cloud**, **Product Management**, and **Strategy/Consulting**. I'm known for being a strong communicator, highly client-focused, and feedback-driven, with a background in Data, Platforms and Stakeholder Engagement.
 
 ### 🚀 Featured Projects
 
