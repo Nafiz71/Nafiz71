@@ -28,11 +28,7 @@ I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engi
 
 **Tech Stack:** HTML, CSS, Python (Plotly, Pandas), Web Hosting
 **Link:** [Live Website](https://nafiz71.github.io/DataViz/)
-*Visual exploration of tech job trends across roles and cities in Australia, hosted on GitHub Pages.*
-
----
-
-Sure! Here's a concise and professional version for your GitHub README section:
+*Visual exploration of tech job trends across roles and cities in Australia, hosted on GitHub Pages.
 
 ---
 
