@@ -55,6 +55,16 @@ I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engi
 
 ---
 
+###🛠️ Tools & Tech Stack
+Languages & Scripting:
+Python (Pandas, PySpark), SQL, Bash, YAML, Terraform, Git, HTML, CSS, JavaScript
+
+Productivity & Collaboration:
+Jira, Confluence, Figma, Miro, Notion, Nuclino, Microsoft Office 365
+
+Developer Tools & Platforms:
+Power BI, Tableau, AWS, Databricks, Microsoft SQL Server, PostgreSQL, Apache Airflow, Power Automate, Excel
+
 ### 🎓 Education
 Bachelor of Computer Science
 Monash University
