@@ -55,7 +55,7 @@ I'm Nafiz — a data-driven problem solver with a strong interest in **Data Engi
 
 ---
 
-🎓 Education
+### 🎓 Education
 Bachelor of Computer Science
 Monash University
 
